@@ -24,7 +24,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=aizenrexx&color=00D1D1&style=flat-square&label=PROFILE+VIEWS">
 <img src="https://img.shields.io/github/followers/aizenrexx?style=flat-square&color=5b8cff&label=Followers">
-<img src="https://img.shields.io/badge/repositories-12-8b5cf6?style=flat-square">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faizenrexx&query=%24.public_repos&label=Repositories&color=8b5cf6&style=flat-square">
 
 <br>
 
@@ -114,6 +114,8 @@ A personal accounting and expense tracker, built for day-to-day use rather than 
 </td></tr>
 </table>
 
+<sub>**Also:** [Steam AAA/AA Deals](https://github.com/aizenrexx/steam-aaa-deals) - an auto-generated tracker of AAA/AA Steam titles at 80-100% off.</sub>
+
 ---
 
 ## Stack
@@ -144,12 +146,17 @@ A personal accounting and expense tracker, built for day-to-day use rather than 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aizenrexx&show_icons=true&hide_border=true&bg_color=0d1a2e&title_color=00D1D1&text_color=c3d6ec&icon_color=00D1D1">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizenrexx&layout=compact&hide_border=true&bg_color=0d1a2e&title_color=00D1D1&text_color=c3d6ec&langs_count=8">
+<img height="170" src="https://streak-stats.demolab.com?user=aizenrexx&theme=dark&hide_border=true&background=0D1A2E&ring=00D1D1&fire=00D1D1&currStreakLabel=00D1D1&sideLabels=C3D6EC&dates=8EA4C0&currStreakNum=F2F7FF&sideNums=F2F7FF">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizenrexx&theme=github_dark&bg_color=0d1a2e">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aizenrexx&theme=react-dark&bg_color=0d1a2e&color=00D1D1&line=00D1D1&point=ffffff&area=true&hide_border=true" width="100%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizenrexx&theme=github_dark&bg_color=0d1a2e">
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aizenrexx&theme=github_dark&bg_color=0d1a2e">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizenrexx&theme=github_dark&bg_color=0d1a2e">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aizenrexx/nullcove/output/github-contribution-grid-snake.svg">
@@ -173,7 +180,7 @@ A personal accounting and expense tracker, built for day-to-day use rather than 
 
 <br>
 
-[**Repositories**](https://github.com/aizenrexx?tab=repositories) &nbsp;&nbsp;|&nbsp;&nbsp; [**Releases**](https://github.com/aizenrexx?tab=repositories) &nbsp;&nbsp;|&nbsp;&nbsp; [**Issues**](https://github.com/aizenrexx)
+[**Repositories**](https://github.com/aizenrexx?tab=repositories) &nbsp;&nbsp;|&nbsp;&nbsp; [**Steam Switcher releases**](https://github.com/aizenrexx/AizenRex-Steam-Switcher/releases/latest) &nbsp;&nbsp;|&nbsp;&nbsp; [**Search-man releases**](https://github.com/aizenrexx/AizenRex-Search-man/releases/latest)
 
 <br><br>
 
