@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Aizenrex x Riyad - Software Architect, Cybersecurity Enthusiast, Automation Wizard">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060c16"/>
+      <stop offset="0.55" stop-color="#0c1828"/>
+      <stop offset="1" stop-color="#0f2036"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.16" cy="0.12" r="0.62">
+      <stop offset="0" stop-color="#00a3a3" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#00d1d1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.88" cy="0.94" r="0.66">
+      <stop offset="0" stop-color="#3d6bb5" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#5b8cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d1d1"/>
+      <stop offset="1" stop-color="#4b8dff"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#2f6fd0" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <rect width="1200" height="340" fill="url(#glowA)"/>
+  <rect width="1200" height="340" fill="url(#glowB)"/>
+
+  <g transform="translate(80,100)">
+    <rect width="140" height="140" rx="34" fill="#ffffff" stroke="#bcd4ee" stroke-width="1.5"/>
+    <path d="M70 24 L112 48 V96 L70 120 L28 96 V48 Z" fill="none" stroke="url(#mark)" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M50 84 L70 42 L90 84" fill="none" stroke="#1f6f8f" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M59 71 H81" stroke="#1f6f8f" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+
+  <text x="258" y="150" font-family="Segoe UI, system-ui, sans-serif" font-size="58" font-weight="700" letter-spacing="3" fill="#0a1526">AIZENREX</text>
+  <text x="262" y="188" font-family="Segoe UI, system-ui, sans-serif" font-size="21" font-weight="600" letter-spacing="7" fill="#0d7f92">X RIYAD</text>
+
+  <rect x="260" y="208" width="620" height="1.6" fill="#c9dcf0"/>
+  <text x="260" y="238" font-family="Segoe UI, system-ui, sans-serif" font-size="16.5" fill="#4d6784">Software Architect  /  Cybersecurity Enthusiast  /  Automation Wizard</text>
+
+  <g font-family="Segoe UI, system-ui, sans-serif" font-size="13" font-weight="600" fill="#12406e">
+    <rect x="260" y="262" width="132" height="34" rx="17" fill="#ffffff" stroke="#bcd4ee"/>
+    <text x="326" y="284" text-anchor="middle">C# / .NET 9</text>
+    <rect x="402" y="262" width="122" height="34" rx="17" fill="#ffffff" stroke="#bcd4ee"/>
+    <text x="463" y="284" text-anchor="middle">TypeScript</text>
+    <rect x="534" y="262" width="112" height="34" rx="17" fill="#ffffff" stroke="#bcd4ee"/>
+    <text x="590" y="284" text-anchor="middle">Windows</text>
+    <rect x="656" y="262" width="128" height="34" rx="17" fill="#ffffff" stroke="#bcd4ee"/>
+    <text x="720" y="284" text-anchor="middle">Automation</text>
+    <rect x="794" y="262" width="114" height="34" rx="17" fill="#ffffff" stroke="#bcd4ee"/>
+    <text x="851" y="284" text-anchor="middle">Security</text>
+  </g>
+
+  <g>
+    <rect x="980" y="96" width="140" height="34" rx="17" fill="#e8f7f9" stroke="#9fdde5"/>
+    <circle cx="1004" cy="113" r="5" fill="#00d1d1"/>
+    <text x="1018" y="118" font-family="Segoe UI, system-ui, sans-serif" font-size="13" font-weight="600" fill="#0b6b76">nullcove</text>
+  </g>
+
+  <rect x="0" y="337" width="1200" height="3" fill="url(#mark)" opacity="0.55"/>
+</svg>
