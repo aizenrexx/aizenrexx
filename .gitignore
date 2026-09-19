@@ -1,0 +1,21 @@
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.local
+*.pem
+*.pfx
+
+# Build output
+dist/
+build/
+out/
